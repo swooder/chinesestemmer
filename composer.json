@@ -1,0 +1,19 @@
+{
+    "name": "woodfish/chinesestemmer",
+    "description": "中文分词",
+    "authors": [
+        {
+            "name": "shaojie",
+            "email": "shaojie519@gmail.com"
+        }
+    ],
+
+    "require": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "Woodfish\\Stemmer": "src/"
+        }
+    },
+}
